@@ -23,12 +23,6 @@ export function Contact() {
             {profile.email}
           </a>
           <a
-            href={`tel:${profile.phone.replace(/-/g, "")}`}
-            className="text-ink-soft hover:text-navy"
-          >
-            {profile.phone}
-          </a>
-          <a
             href={profile.linkedin}
             target="_blank"
             rel="noreferrer"

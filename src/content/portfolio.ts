@@ -1,7 +1,6 @@
 export const profile = {
   name: "Jarvis Dumas",
-  location: "Greater Orlando, Florida",
-  phone: "407-637-7589",
+  location: "Orlando, Florida",
   email: "Jarvis.Dumas@Outlook.com",
   linkedin: "https://www.linkedin.com/in/jarvis-dumas-093b7558/",
   roles: ["Software Engineer", "SaaS Builder", "Odoo Developer", "Founder"],
