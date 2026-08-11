@@ -200,18 +200,18 @@ export const projects: Project[] = [
   {
     slug: "ghost",
     name: "Ghost",
-    kind: "Retail monitoring SaaS",
+    kind: "Retail monitoring and drop intelligence SaaS",
     blurb:
-      "Restock monitor and checkout bot that runs on your PC—Discord alerts, subscriptions, and verified-store checkout.",
+      "Retail monitoring and drop intelligence that runs on your PC—Discord alerts, subscriptions, and verified-store workflows.",
     summary:
-      "Ghost helps collectors and resellers catch high-demand inventory at original retailers. The SaaS handles accounts and billing; monitoring and optional checkout run locally on the user’s machine with Discord alerts—not a shared cloud farm.",
+      "Ghost helps collectors and resellers stay ahead of high-demand retail drops. The SaaS handles accounts and billing; drop intelligence and monitoring run locally on the user’s machine with Discord alerts—not a shared cloud farm.",
     website: "https://project-gengar.onrender.com/",
     accent: "#3d4f5f",
     cover: "/projects/ghost/landing.png",
     images: [
       {
         src: "/projects/ghost/landing.png",
-        alt: "Ghost landing page for restock monitoring and checkout",
+        alt: "Ghost landing page for retail monitoring and drop intelligence",
       },
       {
         src: "/projects/ghost/pricing.png",
@@ -219,11 +219,11 @@ export const projects: Project[] = [
       },
       {
         src: "/projects/ghost/monitor-live.png",
-        alt: "Ghost monitor running with Nike and Bandai stock statuses",
+        alt: "Ghost drop intelligence dashboard with Nike and Bandai stock statuses",
       },
       {
         src: "/projects/ghost/monitor.png",
-        alt: "Ghost monitor with IN STOCK, OUT, and CHECKING product slots",
+        alt: "Ghost monitoring view with IN STOCK, OUT, and CHECKING product slots",
       },
     ],
     stack: [
@@ -235,9 +235,9 @@ export const projects: Project[] = [
       "Render",
     ],
     highlights: [
-      "Local PC monitoring with Discord restock alerts",
-      "Subscription tiers including Pro + Checkout for verified stores",
-      "Monitor dashboard with stock status, slots, and event logs",
+      "Local PC retail monitoring with Discord drop alerts",
+      "Subscription tiers for monitoring and verified-store workflows",
+      "Drop intelligence dashboard with stock status, slots, and event logs",
       "Separation of hosted account management from local execution",
     ],
   },

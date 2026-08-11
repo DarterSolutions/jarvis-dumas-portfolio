@@ -6,7 +6,7 @@ Personal portfolio site for **Jarvis Dumas** — software engineer, SaaS builder
 
 - **Rival Roster** — multi-sport simulation platform
 - **Project Atlas** — quantitative research & trading engine
-- **Ghost** — retail drop/restock monitoring SaaS
+- **Ghost** — retail monitoring and drop intelligence SaaS
 - **Enterprise Odoo Engineering** — Odoo 16–18 implementations & integrations
 
 ## Stack
